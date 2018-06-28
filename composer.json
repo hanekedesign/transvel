@@ -2,7 +2,7 @@
     "name": "vijaytupakula/transvel",
     "description": "Automtatic translation using google api for laravel",
     "require": {
-        "hanekedesign/google-translate": "dev-master",
+        "ddctd143/google-translate": "dev-master",
         "illuminate/support": "^5.2"
     },
     "autoload": {
