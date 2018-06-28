@@ -1,14 +1,8 @@
 {
     "name": "vijaytupakula/transvel",
     "description": "Automtatic translation using google api for laravel",
-    "repositories": [
-      {
-        "type": "vcs",
-        "url": "https://github.com/hanekedesign/google-translate"
-      }
-    ],
     "require": {
-        "ddctd143/google-translate": "dev-master",
+        "hanekedesign/google-translate": "dev-master",
         "illuminate/support": "^5.2"
     },
     "autoload": {
