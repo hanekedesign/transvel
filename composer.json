@@ -15,6 +15,10 @@
         {
             "name": "vijay kumar",
             "email": "contact@vijaykumar.me"
+        },
+        {
+          "name": "Jesse Curry",
+          "email": "jesse@jessecurry.net"
         }
     ],
     "minimum-stability": "dev"
